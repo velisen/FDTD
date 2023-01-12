@@ -1,0 +1,61 @@
+# examples folder
+docs/examples
+examples/fdtd
+examples/fdtd_output
+
+# documentation
+docs/_build
+
+# Mac folders
+.DS_Store
+
+# python cache
+__pycache__
+
+# jupyter notebooks
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache
+
+# byte code
+*.pyc
+
+# logs
+*.log
+
+# swap files
+*.swp
+
+# data
+*.data
+*.obj
+*.npy
+*.npz
+*.gz
+
+# photonic design
+*.gds
+
+# documentation
+*.html
+*.md.html
+
+# VS Code
+.vscode
+tempCodeRunnerFile.py
+
+# pip
+*.egg-info
+
+# coverage reports
+htmlcov/*
+.coverage
+
+# mypy
+.mypy_cache
+
+# pip
+build
+dist
+
