@@ -906,10 +906,5 @@ coefficients by the user (scale impedance?!?)
 grid.H_scaling_factor = sqrt(mu0) ?
 --->
 
-## Linter
 
-You can run a linter in the root using `pylint fdtd`.
 
-## License
-
-© Floris laporte - [MIT License](license)
